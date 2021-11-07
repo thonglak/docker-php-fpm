@@ -41,7 +41,7 @@ ARG ALPINE_VERSION=3.13
 
 FROM php:${image}
 
-ARG PHP_EXTS="pdo_mysql pdo_pgsql intl opcache bcmath"
+ARG PHP_EXTS="intl"
 ARG APK_ADD
 ARG PHP_LIBS
 

@@ -28,11 +28,7 @@ A [PHP-FPM](http://php.net/manual/fr/install.fpm.php "PHP FastCGI Process Manage
 
 _By default, each image is bundled with the following extensions:_
 
-- bcmath
 - intl
-- opcache
-- pdo_mysql
-- pdo_pgsql
 
 _and the base APK packages:_
 
